@@ -1,4 +1,4 @@
-# sonata-queries
+# Sonata Queries
 
 
 |#| Program Name  | Description|
